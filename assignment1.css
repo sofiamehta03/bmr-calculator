@@ -1,0 +1,73 @@
+#allPage {
+	margin: 40px auto 40px auto;
+    font-family: "Times New Roman", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	border-radius: 10px;
+	padding: 20px 10px 10px 10px;
+	width: 600px;
+	opacity: 0.95;
+	background-repeat: repeat;
+	text-align: center;
+}
+label {
+	width: 400px;
+	float: none;
+	text-align: center;
+	font-size: 24px;
+}
+fieldset {
+   /* background-image: linear-gradient( #f2fcfe,#c7ffee);*/
+	border-radius: 3px;
+	padding: 5px;
+	margin: 5px;
+	 background-color: rgb(241, 237, 237); 
+	box-shadow: 2px 2px 2px black;
+    text-align: center;
+}
+
+body {
+	background-size: auto auto;
+	font-family: sans-serif;
+    background-image: linear-gradient(#f2fcfe,#470058);
+	background-repeat: repeat;
+	text-align: center;
+}
+
+button {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: large;
+	
+	
+}
+#convert {
+	text-align: center;
+}
+.button {
+	text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #fdcbf1;
+    /*background-color: rgb(252, 119, 141);
+	/*background-color: #B7EE9D;*/
+	transition-duration: 0.4s;
+	cursor: pointer;
+	font-size: medium;
+	color: #000;
+    display: inline-block;
+}
+.button:hover {
+	background-color:rgb(187, 187, 187);
+	color: #000000;
+}
+
+h3 {
+	text-align: center;
+	font-family: sans-serif;
+	color: red;
+	
+}
+h2 {
+	text-align: center;
+	font-family: sans-serif;
+	color: #000;
+}
